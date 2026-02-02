@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(if not exist \"D:\\\\PracaMagisterska\\\\uploads\" mkdir \"D:\\\\PracaMagisterska\\\\uploads\")"
+    ]
+  }
+}
